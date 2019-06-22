@@ -15,14 +15,6 @@
       "js": [
         "./app-rtl.js"
       ]
-    },
-    "bootstrap-all": {
-      "css": [
-        "./bootstrap-all.css"
-      ],
-      "js": [
-        "./bootstrap-all.js"
-      ]
     }
   }
 }
